@@ -1,4 +1,4 @@
-# mashdjangobackend
+# mash_backend
 A opensource backend server for [MASH Poject](https://www.facebook.com/MashProject/) workforce management, leads email tracker and mass mailer.
 ### workforce management
 Track the intern/ employees as per department and aggregate their profile info(image,scocial links etc) for future reference. 
